@@ -1,87 +1,71 @@
 {
 	"basics": {
-		"name": "---Enter Your Name---",
+		"name": "Sahara Sippy",
 		"label": "Student",
-		"picture": "---Enter Image URL----",
-		"email": "---Enter Email ID---",
-		"phone": "---Enter Mobile Number---",
-		"website": "---Enter Link of website(if any) ---",
-		"summary": "---Tell Something about yourself ---",
+		"picture": "https://media-exp1.licdn.com/dms/image/C4D03AQFq5f2xExVHAQ/profile-displayphoto-shrink_800_800/0/1606064970219?e=1632960000&v=beta&t=tIODuzpbONJAr9fuRuDezsRcfdCaJ3dcjS9gWxcvYx8",
+		"email": "2020kucp1042@iiitkota.ac.in",
+		"phone": "9119150889",
+		
+		"summary": "Learner",
 		"location": {
-			"address": "---",
-			"postalCode": "---",
-			"city": "---",
+			
+			
+			"city": "Jaipur",
 			"countryCode": "India",
-			"region": "---State Name---"
+			"region": "Rajasthan"
 		},
 		"profiles": [{
 				"network": "Twitter",
 				"username": "handle",
-				"url": "https://www.twitter.com/<handle>"
+				"url": "https://twitter.com/SaharaSippy"
 			},
 			{
 				"network": "Github",
 				"username": "handle",
-				"url": "https://www.github.com/<handle>/"
+				"url": "https://github.com/SaharaSippy"
 			},
 			{
 				"network": "linkedin",
 				"username": "username",
-				"url": "https://www.linkedin.com/in/<username>/"
+				"url": "https://www.linkedin.com/in/sahara-sippy-0b1404200/"
 			},
 			{
 				"network": "Instagram",
 				"username": "handle",
-				"url": "https://instagram.com/<handle>"
+				"url": "https://www.instagram.com/saharasippy/"
 			}
 		]
 	},
 	"work": [{
-		"company": "---",
-		"position": "----",
-		"website": "----",
-		"startDate": "2020-08-04//Take care about Date Format",
-		"endDate": "Date // ",
-		"summary": "---Tell me something About Org. --- ",
-		"highlights": ["Add Highlights", "Your work details"]
+		"company": "GPCSSI",
+		"position": "Intern",
+		
+		"startDate": "2021-06-15",
+		"endDate": "2021-07-12",
+		"summary": "Guru Gram Cyber Security Summer Internship 2021"
+		
 	}],
-	"volunteer": [{
-		"organization": "---Name Org ---",
-		"position": "---Add ---",
-		"website": "---",
-		"startDate": "2020-01-01 // Note Date Format",
-		"endDate": "---",
-		"summary": "Description...",
-		"highlights": []
-	}],
+	
 	"education": [{
 		"institution": "Indian Institute of Information technology,kota",
 		"area": "Engineering",
 		"studyType": "Bachelor (hons)",
-		"startDate": "2018-04-08 //Date",
+		"startDate": "2021-12-02 //Date",
 		"endDate": "----",
-		"gpa": "---Add your CGPA ---",
+		"gpa": "8.6",
 		"courses": [
 			"Computer Science & Engineering"
 		]
 	}],
-	"awards": [{
-		"title": "--Title---",
-		"awarder": "---Receiverd By ---",
-		"date": "2020-08-21//Date"
-	}],
-	"publications": [{
-		"title": "---Enter Title---",
-		"details": "---Enter Details---",
-		"link": "---github/website link to show your work---"
-	}],
+	
+	
 	"skills": [{
 		"level": "Master",
-		"keywords": ["HTML", "CSS", "Javascript", "React", "C/C++", "Add more"]
+		"keywords": ["HTML", "CSS", "Javascript", "python", "C/C++", "Add more"]
 	}],
 	"interests": [{
 		"name": "Sports",
-		"keywords": ["Chess", "Badminton"]
+		"keywords": ["Football", "Badminton","Table Tennis"]
 	}],
 	"references": []
 }
