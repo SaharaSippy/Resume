@@ -16,22 +16,22 @@
 		},
 		"profiles": [{
 				"network": "Twitter",
-				"username": "handle",
+				"username": "SaharaSippy",
 				"url": "https://twitter.com/SaharaSippy"
 			},
 			{
 				"network": "Github",
-				"username": "handle",
+				"username": "SaharaSippy",
 				"url": "https://github.com/SaharaSippy"
 			},
 			{
 				"network": "linkedin",
-				"username": "username",
+				"username": "Saharasippy",
 				"url": "https://www.linkedin.com/in/sahara-sippy-0b1404200/"
 			},
 			{
 				"network": "Instagram",
-				"username": "handle",
+				"username": "saharasippy",
 				"url": "https://www.instagram.com/saharasippy/"
 			}
 		]
